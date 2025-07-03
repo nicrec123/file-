@@ -1,0 +1,17 @@
+<h2 id="welcome-title"class="welcome">Welcome</h2> 
+<p class= "hello"> hello </p>
+<p class="hi"> hi </p>
+<p class="nice"> nice </p>
+
+h2{color: blue; text-align: center; background-color: pink;}
+.welcome{font-size: 100px;}
+#welcome-title{border: black solid; 10px; border-radius: 30px;}
+.hello{font-size: 50px; color: blue}
+.hello{border: dashed pink; border-radius: 30px;}  
+.hi{font-size: 50px; color: pink}
+.hi{border: dashed blue; border-radius: 30px;}
+.nice{font-size: 50px; color: blue}
+.nice{border: dashed pink; border-radius: 30px;}
+
+
+
