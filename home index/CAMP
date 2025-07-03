@@ -1,0 +1,7 @@
+<h1 id="camp-title" class="code-header">Code Camp</h1>
+
+h1{color: blue; text-align: center; background-color: black;}
+.code-header{font-size: 100px;}
+#camp-title {border: black solid 5px;
+  border-radius: 20px;} 
+
