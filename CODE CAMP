@@ -1,0 +1,36 @@
+<h1> Glen A. Wilson <br> is the best! </h1>
+<button> Here's a random button to press for fun </button>
+<h3> Why? </h3>
+<p> It's got cool clubs <br> and teams like this one :) </p>
+<a href = https://wihs.hlpschools.org/ > Click here to press for School page </a>
+<p> Hope you enjoy <br> your time here <br> at Wilson! </p>
+<img src=
+     https://variety.com/wp-content/uploads/2015/02/spidey.jpg alt= "Spiderman" width="450" height= "300" >
+<ul>
+  <li> lip gloss </li>
+  <li> sunscreen </li>
+  <li> 4U by Tia leave-in curl cream </li>
+</ul>
+<ol> 
+  <li> buy ice cream </li>
+  <li> put ice cream in bowl </li>
+  <Li> get spoon </li>
+<li> eat ice cream </li>
+</ol>
+<table>
+  <tr>
+    <th> ice cream </th> 
+    <th> chips </th>
+    <th> candy </th>
+  </tr>
+  <tr>
+    <td> mint chip </td> 
+    <td> takies </td>
+    <td> sour patch </td> 
+  </tr> 
+  <tr>
+    <td> rocky road </td>
+    <td> doritos </td>
+    <td> nerds </th>
+  </tr>
+</table>
