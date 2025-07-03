@@ -1,0 +1,21 @@
+<p id= "hello">hello</p>
+<p class= "goodbye">goodbye</p>
+<p class= "bye"> bye</p>
+
+
+<input type="text" id="message"</input>
+<button id="submit">click me</button>
+
+let stuff =
+    document.getElementById("click");
+stuff.addEventListener("click", function() {
+  alert("click");
+  console.log("hi");
+});
+
+var message = document.getElementById("massage");
+var submit = document.getElementById("submit");
+
+submit.addEventListener("click", function(){
+  
+})
